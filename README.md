@@ -17,4 +17,6 @@ Para la ejecución de este código es necesario correr el comando ```python app.
 3. Seleccionar ```Body``` tipo ```raw``` y ```JSON```
 4. Agregar el ejemplo en la caja de texto y probar
 
+![](https://github.com/alejandraeg9899/kosmos_test/blob/main/evidenica_kosmos_test.png)
+
 
